@@ -3,3 +3,6 @@ remote added this line
 remote added second line 
 
 local add this line after remote try to make conflic
+
+remote try to make conflick
+
